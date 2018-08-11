@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+inverse_index
+inverse_index.so
+inverse_index.dylib
+inverse_index.dll
+inverse_index.a
+inverse_index.lib
+inverse_index-test-*
+*.exe
+*.o
+*.obj
+*.lst
