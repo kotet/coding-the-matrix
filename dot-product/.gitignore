@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dot-product.so
+dot-product.dylib
+dot-product.dll
+dot-product.a
+dot-product.lib
+dot-product-test-*
+dot-product
+*.exe
+*.o
+*.obj
+*.lst
