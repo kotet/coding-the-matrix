@@ -1,0 +1,11 @@
+{
+	"name": "error-correcting-codes",
+	"authors": [
+		"kotet"
+	],
+	"description": "4.14 p243-248",
+	"copyright": "Copyright © 2018, kotet",
+	"license": "MIT",
+	"targetPath": "build",
+	"workingDirectory": "build"
+}
